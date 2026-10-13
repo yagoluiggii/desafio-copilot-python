@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resolvendo Códigos em Python com o GitHub Copilot
 
 ## 📝 Descrição do Projeto
@@ -17,3 +18,6 @@ Este projeto foi desenvolvido como parte de um desafio prático com o objetivo d
 1. Clona este repositório:
    ```bash
    git clone [https://github.com/https://github.com/yagoluiggii/desafio-copilot-python.git]
+=======
+# desafio-copilot-python
+>>>>>>> ca1a687595f5c9653657d5c046a9e13d2e5c044f
